@@ -1,0 +1,118 @@
+
+
+Version:	3.8
+CmdLine:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\dietAdvisor.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Ignore:		1.8.0_191
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.8.0_191
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.0.1 - 1.0.8
+Open URL:	http://java.com/download
+
+
+Version:	3.8
+CmdLine:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\dietAdvisor.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Ignore:		1.8.0_191
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.8.0_191
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.0.1 - 1.0.8
+Open URL:	http://java.com/download
+
+
+Version:	3.8
+CmdLine:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\dietAdvisor.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Ignore:		1.8.0_191
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.8.0_191
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.0.1 - 1.0.8_19
+Open URL:	http://java.com/download
+
+
+Version:	3.8
+CmdLine:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\dietAdvisor.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Ignore:		1.8.0_191
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.8.0_191
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.0.1 - 1.0.8_20
+Open URL:	http://java.com/download
+
+
+Version:	3.8
+CmdLine:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\dietAdvisor.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.8.0_191
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.8.0_191
+Runtime used:	1.8.0_191 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe
+Launcher args:	-jar "C:\Users\user\Documents\NetBeansProjects\dietAdvisor\lib\libs\dietAdvisor.exe"
+Args length:	84/32768 chars
+Exit code:	0

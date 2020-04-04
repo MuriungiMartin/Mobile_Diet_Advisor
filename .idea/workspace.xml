@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b9d9d55-556a-417a-b99c-c963065d07f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1a5UJxSOI5joYZDJ737JV205xhT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tests in 'dietAdvisor'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'dietAdvisor'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b9d9d55-556a-417a-b99c-c963065d07f5" name="Default Changelist" comment="" />
+      <created>1586024879486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586024879486</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586025854790">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state x="164" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.27.1320.741@46.27.1320.741" timestamp="1586025854790" />
+    <state x="547" y="289" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586025867057">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state x="547" y="289" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/46.27.1320.741@46.27.1320.741" timestamp="1586025867057" />
+    <state width="1254" height="159" key="GridCell.Tab.0.bottom" timestamp="1586025004072">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state width="1254" height="159" key="GridCell.Tab.0.bottom/46.27.1320.741@46.27.1320.741" timestamp="1586025004072" />
+    <state width="1254" height="159" key="GridCell.Tab.0.center" timestamp="1586025004071">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state width="1254" height="159" key="GridCell.Tab.0.center/46.27.1320.741@46.27.1320.741" timestamp="1586025004071" />
+    <state width="1254" height="159" key="GridCell.Tab.0.left" timestamp="1586025004069">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state width="1254" height="159" key="GridCell.Tab.0.left/46.27.1320.741@46.27.1320.741" timestamp="1586025004069" />
+    <state width="1254" height="159" key="GridCell.Tab.0.right" timestamp="1586025004072">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state width="1254" height="159" key="GridCell.Tab.0.right/46.27.1320.741@46.27.1320.741" timestamp="1586025004072" />
+    <state x="362" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1586024905388">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state x="362" y="225" key="com.intellij.ide.util.TipDialog/46.27.1320.741@46.27.1320.741" timestamp="1586024905388" />
+  </component>
+</project>
